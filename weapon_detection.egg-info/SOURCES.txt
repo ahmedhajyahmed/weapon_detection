@@ -1,0 +1,9 @@
+setup.py
+weapon_detection/__init__.py
+weapon_detection.egg-info/PKG-INFO
+weapon_detection.egg-info/SOURCES.txt
+weapon_detection.egg-info/dependency_links.txt
+weapon_detection.egg-info/requires.txt
+weapon_detection.egg-info/top_level.txt
+weapon_detection/firearm_classifier/__init__.py
+weapon_detection/firearm_classifier/firearm_classifier.py

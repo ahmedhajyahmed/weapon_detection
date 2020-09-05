@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: weapon-detection
+Version: 0.1
+Summary: package containing a deep learning model for detecting firearm in a picture
+Home-page: UNKNOWN
+Author: Ahmed Haj Yahmed
+Author-email: hajyahmedahmed@gmail.com
+License: UNKNOWN
+Description: package containing a deep learning model for detecting firearm in a picture
+Keywords: Weapon detection,Weapon classification,Image classification
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6.6
+Classifier: Topic :: image Processing :: weapon detection
